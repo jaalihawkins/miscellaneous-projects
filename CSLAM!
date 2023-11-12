@@ -1,0 +1,2 @@
+# CSLAM!
+CSlam! is our simulation of part of a real board game named Yamslam. We will simulate rolling dice using a random number generator and our C program will determine which dice combination is created by the dice. Our player will get the option to reroll the dice to get a different combination. For now, our program will only roll all of the dice and will determine the combination display it, and allow the player to reroll up to 2 more times. Your program will be looking at the following seven combinations.
